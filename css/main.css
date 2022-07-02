@@ -1144,7 +1144,7 @@ header .logo a {
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
-	position: absolute;
+	position: relative;
 	right: 8px;
 	top: 50%;
 	bottom: auto;
